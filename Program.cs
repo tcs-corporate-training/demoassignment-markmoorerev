@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace demoassignment_markmoorerev
 {
@@ -6,7 +6,7 @@ namespace demoassignment_markmoorerev
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello <Mark>!");
         }
     }
 }
